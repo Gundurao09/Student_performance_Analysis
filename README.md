@@ -36,7 +36,7 @@ The dataset contains the following fields for each student:
 
 ## 📷 Dashboard Preview
 
-![Dashboard Preview](images/dashboard.png) <!-- You can replace the path if your image is in another folder -->
+![Dashboard Preview](Dashboard.png) 
 
 ---
 
